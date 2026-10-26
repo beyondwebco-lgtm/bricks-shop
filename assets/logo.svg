@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 64" width="340" height="64" fill="none">
+  <!-- Brand Icon: Geometric Interlocking Bricks Structure -->
+  <g transform="translate(4, 4)">
+    <!-- Base Layer Bricks (Deep Navy) -->
+    <rect x="0" y="38" width="24" height="14" rx="2.5" fill="#142D4E"/>
+    <rect x="28" y="38" width="24" height="14" rx="2.5" fill="#142D4E"/>
+    
+    <!-- Mid Layer Offset Bricks (Terracotta Red) -->
+    <rect x="14" y="20" width="24" height="14" rx="2.5" fill="#C65D3B"/>
+    <rect x="42" y="20" width="10" height="14" rx="2" fill="#E07A5F"/>
+    
+    <!-- Top Layer Brick (Terracotta Accent) -->
+    <rect x="0" y="2" width="24" height="14" rx="2.5" fill="#C65D3B"/>
+    <rect x="28" y="2" width="10" height="14" rx="2" fill="#142D4E"/>
+    
+    <!-- Dynamic Corner Accent Dot -->
+    <circle cx="50" cy="7" r="3.5" fill="#C65D3B"/>
+  </g>
+
+  <!-- Typography -->
+  <text x="74" y="32" font-family="'Manrope', -apple-system, BlinkMacSystemFont, sans-serif" font-size="25" font-weight="800" letter-spacing="-0.5" fill="#142D4E">
+    SSN<tspan fill="#C65D3B">.</tspan>
+  </text>
+  <text x="135" y="32" font-family="'Manrope', -apple-system, BlinkMacSystemFont, sans-serif" font-size="21" font-weight="700" letter-spacing="1" fill="#1E293B">
+    CONSTRUCTIONS
+  </text>
+  <text x="75" y="49" font-family="'Inter', -apple-system, BlinkMacSystemFont, sans-serif" font-size="9" font-weight="600" letter-spacing="2.2" fill="#64748B">
+    KARIMNAGAR RED BRICKS &bull; HYDERABAD
+  </text>
+</svg>
